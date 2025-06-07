@@ -1,5 +1,4 @@
 # performance_kpis
-# Retail Staff Efficiency Analysis
 
 This project analyzes staff efficiency across 28 retail stores over a 30-day period using real-world performance metrics. It uses Python and pandas to evaluate hourly performance by calculating KPIs such as Revenue per Staff and Conversion Rate.
 
